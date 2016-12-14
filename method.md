@@ -3,6 +3,7 @@ layout: page
 title: method
 permalink: /method/
 order: 2
+published: false
 ---
 # Objetivo
 Cear una herramienta de medición del impacto en Twitter de cada candidato presidencial, bajo el contexto que su presencia en dicha red social determina lo que piensa un conjunto relevante del electorado en Chile, y se traduciría en una muestra real de sus aspiraciones a transformarse en el o la presidenta de Chile.
