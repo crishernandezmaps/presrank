@@ -5,22 +5,26 @@
     // border-top: 5px solid $grey-color-dark;
     // border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
+    background: tomato;
+    padding: 5%;
+    text-align: center;
 
     // Positioning context for the mobile navigation icon
     position: relative;
 }
 
 .site-title {
-    font-size: 26px;
+    font-size: 3em;
     font-weight: 300;
     line-height: 56px;
     letter-spacing: -1px;
-    margin-bottom: 0;
-    float: left;
+    // margin-bottom: 0;
+    margin: 0 auto;
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        // color: $grey-color-dark;
+        color: white;
     }
 }
 
@@ -99,7 +103,7 @@
  */
 .site-footer {
     border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
+    padding: 5%;
 }
 
 .footer-heading {
