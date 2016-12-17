@@ -1,18 +1,18 @@
 body {
   font: 10px sans-serif;
-  background: FloralWhite;
+  background: #F7F7F7;
 }
 
 .c {
 width: 750px;
-height: 450;
+height: 450px;
 margin: 0 auto;
 }
-
+/*
 svg {
   padding: 0;
   margin: 0;
-}
+}*/
 
 #title {
   margin-left: 5%;
@@ -29,10 +29,10 @@ text {
   shape-rendering: crispEdges;
 }
 .bar {
-  fill: orange;
+  fill: #9c9ede;
 }
 .bar:hover {
-  fill: orangered ;
+  fill: #FFCD02 ;
 }
 .x.axis path {
   display: none;
