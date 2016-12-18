@@ -7,12 +7,16 @@ body {
 width: 750px;
 height: 450px;
 margin: 0 auto;
+display: inline-block;
+position: relative;
+vertical-align: middle;
+overflow: hidden;
 }
-/*
+
 svg {
-  padding: 0;
-  margin: 0;
-}*/
+  display: inline-block;
+	position: absolute;
+}
 
 #title {
   margin-left: 5%;
