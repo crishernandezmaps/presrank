@@ -7,8 +7,8 @@
 
 # Site settings
 title: "Presidential Rank"
-email: crishmill@gmail.com
-description: "Presidential Rank: an ongoing experimental measure fo presidential candidates for Chilean 2017 election."
+email: hi@crishernandez.co
+description: "An experimental Chilean presidential ranking for 2017 election, using Twitter Data."
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: crishernandezco
